@@ -9,4 +9,4 @@ Didyagota started out as an IRL game visiting territories in Melbourne's Hoddle 
 
 After filming two IRL games, we decided to make an at home board game.  Play testing showed we could create a version using just cards.  
 
-The name came from a common refrain whenever someone visited a know destination: "Did ya go ta x landmark?".
+The name came from a common refrain whenever someone visited a known destination: "Did ya go ta x landmark?".
